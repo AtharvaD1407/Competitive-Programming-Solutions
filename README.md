@@ -23,8 +23,8 @@ This repository contains my solutions to competitive programming problems, prima
     ```
 
 2. Navigate to the folder of the language you prefer and explore the solutions.
-    - Easy: `LeetCode/Easy/`
-    - Medium: `LeetCode/Medium/`
-    - Hard: `LeetCode/Hard/`
+    - [Easy](./LeetCode/Easy/)
+    - [Medium](./LeetCode/Medium/)
+    - [Hard](./LeetCode/Easy/Python/)
 
 3. Each solution file is named based on the problem it solves. You can refer to the problem name or number.
