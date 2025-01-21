@@ -1,7 +1,3 @@
-# Approach
-
----
-
 # Python
 ```python
 class Solution:
