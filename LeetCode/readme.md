@@ -25,16 +25,6 @@ LeetCode/
 
 ---
 
-## 🛠 Languages Supported
-
-| Language | Description |
-|----------|-------------|
-| **C++**  | Fast and memory-efficient solutions. Ideal for competitive programming. |
-| **Python** | Readable and concise solutions. Great for quick prototyping. |
-| **Java**  | Robust and platform-independent solutions. |
-
----
-
 ## 🔥 How to Navigate
 
 1. **Choose Difficulty:** Start by selecting the difficulty folder: Easy, Medium, or Hard.
