@@ -1,1 +1,35 @@
+# Python
+```python
+w = int(input())
 
+if w > 2 and w % 2 == 0:
+    print("YES")
+else:
+    print("NO")
+```
+
+<hr>
+
+# C++
+```c++
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+    int w;
+    cin >> w;
+
+    if (w > 2 && w % 2 == 0)
+    {
+        cout << "Yes" << endl;
+    }
+    else
+    {
+        cout << "NO" << endl;
+    }
+
+    return 0;
+}
+```
