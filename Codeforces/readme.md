@@ -27,29 +27,11 @@ Codeforces/
 
 ---
 
-## 🛠 Languages Supported
-
-| Language | Why Use It? |
-|----------|-------------|
-| **C++**  | Blazing-fast execution and STL for efficient algorithms. |
-| **Python** | Perfect for quick implementations and readability. |
-| **Java**  | Reliable and widely-used for structured coding. |
-
----
-
 ## 💡 Key Features
 
 - **Problem IDs:** Each file is named after the **Codeforces problem ID**, making it easy to match with the contest problems.
 - **Optimized Solutions:** Each solution is crafted with performance in mind, using the best algorithms and data structures.
 - **Commentary:** Solutions include comments explaining the approach, logic, and edge cases.
-
----
-
-## 🎯 Why This Repository?
-
-- To practice and excel in **competitive programming**.
-- To provide a well-organized resource for others to learn and improve.
-- To challenge myself with progressively harder problems.
 
 ---
 
