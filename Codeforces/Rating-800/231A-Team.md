@@ -37,3 +37,34 @@ int main()
     return 0;
 }
 ```
+
+<hr>
+
+# Java
+```java
+import java.util.Scanner;
+
+public class TeamCount {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int n = scanner.nextInt();
+        scanner.nextLine();
+        int count = 0;
+
+        for (int i = 0; i < n; i++) {
+            String[] parts = scanner.nextLine().split(" ");
+            int sum = 0;
+            for (String part : parts) {
+                sum += Integer.parseInt(part);
+            }
+            if (sum >= 2) {
+                count++;
+            }
+        }
+
+        System.out.println(count);
+        scanner.close();
+    }
+}
+```

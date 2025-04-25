@@ -42,3 +42,33 @@ int main()
     return 0;
 }
 ```
+
+<hr>
+
+# Java
+```java
+import java.util.Scanner;
+import java.util.HashSet;
+
+public class ChatDecision {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String username = scanner.nextLine();
+
+        HashSet<Character> distinctCharacters = new HashSet<>();
+        for (char c : username.toCharArray()) {
+            distinctCharacters.add(c);
+        }
+
+        int countDistinct = distinctCharacters.size();
+
+        if (countDistinct % 2 == 0) {
+            System.out.println("CHAT WITH HER!");
+        } else {
+            System.out.println("IGNORE HIM!");
+        }
+
+        scanner.close();
+    }
+}
+```
